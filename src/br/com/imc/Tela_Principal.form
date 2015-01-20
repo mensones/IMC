@@ -161,7 +161,7 @@
         <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
           <Color blue="c0" green="94" red="74" type="rgb"/>
         </Property>
-        <Property name="text" type="java.lang.String" value="Desenvolvido por: Emerson Vieira   |     mensones@gmail.com"/>
+        <Property name="text" type="java.lang.String" value="Desenvolvido por: Emerson Vieira   |     mensones@outlook.com"/>
       </Properties>
     </Component>
   </SubComponents>
