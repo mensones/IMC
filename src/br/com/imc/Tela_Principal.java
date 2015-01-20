@@ -171,13 +171,13 @@ public class Tela_Principal extends javax.swing.JFrame {
         if(resultado<18.5){
             JOptionPane.showMessageDialog(null, "Você está abaixo do peso ideal");
         }if(resultado>=18.5 && resultado <=24.9){
-            JOptionPane.showMessageDialog(null, "Você está com em seu peso ideal");
+            JOptionPane.showMessageDialog(null, "Você está com o peso ideal");
         }if(resultado>=25 && resultado<=29.9){
             JOptionPane.showMessageDialog(null, "Você está acima do peso ideal(sobrepeso)");
         }if(resultado>=30 && resultado<=34.9){
             JOptionPane.showMessageDialog(null, "Obesidade de grau I");
         }if(resultado>=35 && resultado<=39.9){
-            JOptionPane.showMessageDialog(null, "Obesidade de gradu II");
+            JOptionPane.showMessageDialog(null, "Obesidade de grau II");
         }if(resultado>=40){
             JOptionPane.showMessageDialog(null, "Obesidade de grau III");
         }
